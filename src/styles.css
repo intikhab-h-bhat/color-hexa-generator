@@ -82,7 +82,7 @@ div {
 .counter-div {
   display: flex;
   flex-direction: column;
-  width: 42rem;
+  width: 40rem;
   border: 1px solid #eee;
   padding: 1rem;
   /* background-color: #634b01; */
@@ -98,7 +98,9 @@ div {
 }
 
 .count {
-  font-size: 6rem;
+  font-size: 4rem;
+  border: 1px solid var(--white);
+  padding: 0 1rem-;
 }
 
 .buttons button {
@@ -118,7 +120,7 @@ button.subtract {
   background-color: #135d66;
   border: 1px solid;
   /* box-shadow: 0 5px 15px #fff; */
-  border-color: #F5f5f5;
+  border-color: #f5f5f5;
 }
 
 button.reset {
@@ -126,14 +128,14 @@ button.reset {
   color: #1e8cfa;
   /* box-shadow: 0 5px 15px #fff; */
   border: 1px solid;
-  border-color: #F5f5f5;
+  border-color: #f5f5f5;
 }
 
 button.add {
   background-color: #135d66;
   /* box-shadow: 0 5px 15px #fff; */
   border: 1px solid;
-  border-color: #F5f5f5;
+  border-color: #f5f5f5;
 }
 
 .uphand-styles {
