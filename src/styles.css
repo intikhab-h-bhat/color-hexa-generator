@@ -23,8 +23,8 @@ a {
 }
 
 nav {
-  background: #135d66;
-  box-shadow: 0 5px 15px #77b0aa;
+  background: #7B66FF;
+  box-shadow: 0 5px 15px #5FBDFF;
 }
 .menu a {
   color: #e3fef7;
@@ -62,7 +62,7 @@ h1 {
 
 i {
   font-size: 3rem;
-  color: #77b0aa;
+  color: #1640D6;
 }
 
 div {
@@ -86,11 +86,11 @@ div {
   border: 1px solid #eee;
   padding: 1rem;
   /* background-color: #634b01; */
-  background-color: #77b0aa;
+  background-color: #B4BDFF;
   color: #fff;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 0 5px 15px #135d66;
+  box-shadow: 0 5px 15px #B4BDFF;
 }
 
 .counter-div > * {
@@ -100,6 +100,7 @@ div {
 .count {
   font-size: 4rem;
   border: 1px solid var(--white);
+  /* color: black; */
   padding: 0 1rem-;
 }
 
@@ -124,9 +125,8 @@ button.subtract {
 }
 
 button.reset {
-  background-color: #135d66;
-  color: #1e8cfa;
-  /* box-shadow: 0 5px 15px #fff; */
+  background-color: #7071E8;
+  color: #fff;  
   border: 1px solid;
   border-color: #f5f5f5;
 }
